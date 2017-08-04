@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Liga3"
+            android:label="@string/title_activity_liga3"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
